@@ -1,0 +1,8 @@
+# raw datasets
+CAN_train/
+CAN_test/
+*.log
+
+# python
+__pycache__/
+*.pyc
